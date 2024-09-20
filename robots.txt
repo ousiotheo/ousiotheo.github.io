@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ousiotheo.github.io/sitemap.html.gz
+Sitemap: https://ousiotheo.github.io/app/sitemap.html.gz
+Sitemap: https://ousiotheo.github.io/assets/sitemap.html.gz
+Sitemap: https://ousiotheo.github.io/css/sitemap.html.gz
+Sitemap: https://ousiotheo.github.io/data/sitemap.html.gz
+Sitemap: https://ousiotheo.github.io/includes/sitemap.html.gz
+Sitemap: https://ousiotheo.github.io/item/sitemap.html.gz
+Sitemap: https://ousiotheo.github.io/src/sitemap.html.gz
